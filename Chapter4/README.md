@@ -6,8 +6,9 @@
 
 <img src="/readme_figures/lms_logo.png">
 
-### Chapter 4: Hypothesis testing.
+### Chapter 4: Hypothesis testing (...).
 
 - Parametric and non-parametric tests.
 - Quantifying significance & p-values and FDR.
-- Comparing mean values of two sample sets & t-test.
+- Multiple testing (...). Comparing mean values of two sample sets
+- Revisiting t-test, chi2-test (...).
